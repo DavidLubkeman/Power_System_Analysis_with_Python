@@ -1,9 +1,0 @@
-﻿section,bus_name,bus_type,voltage_kV,generation_power_MW,load_real_power_MW,load_reactive_power_MVAR,from_bus_name,to_bus_name,r_Ohms,x_Ohms,capacitance_nF
-BUS_DATA,Bus_1,SW,230,,50,30.99,,,,,
-BUS_DATA,Bus_2,PQ,230,0,170,105.35,,,,,
-BUS_DATA,Bus_3,PQ,230,0,200,123.94,,,,,
-BUS_DATA,Bus_4,PV,234.6,318,80,49.58,,,,,
-LINE_DATA,,,,,,,Bus_1,Bus_2,5.33232,26.6616,513.969
-LINE_DATA,,,,,,,Bus_1,Bus_3,3.93576,19.6788,388.611
-LINE_DATA,,,,,,,Bus_2,Bus_4,3.93576,19.6788,388.611
-LINE_DATA,,,,,,,Bus_3,Bus_4,6.72888,33.6444,639.328
